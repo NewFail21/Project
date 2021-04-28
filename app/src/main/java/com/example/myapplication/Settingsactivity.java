@@ -9,6 +9,7 @@ import android.widget.ImageButton;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
+
 public class Settingsactivity extends AppCompatActivity {
 
     Button buttongraphics, buttoncontrol;
