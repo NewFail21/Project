@@ -24,5 +24,6 @@ public class Gameactivity extends AppCompatActivity {
                 finish();
             }
         });
+
     }
 }
