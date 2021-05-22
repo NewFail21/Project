@@ -7,7 +7,7 @@ public class Game
 
     public Game()
     {
-        field = new Square[3][3];
+        field = new Square[4][4];
         squareCount = 0;
         // заполнение поля
         for (int i = 0, l = field.length; i < l; i++)
